@@ -1,0 +1,4 @@
+data/
+mlops-env/
+mlruns/
+**/notebooks/*.png
